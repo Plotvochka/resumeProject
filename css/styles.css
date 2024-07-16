@@ -154,7 +154,7 @@ ol {
   line-height: 1.71;
   text-decoration: underline;
   color: #005fff;
-  margin-left: 14px;
+  /* margin-left: 14px; */
 }
 .projects-list {
   padding-left: 16px;
@@ -218,6 +218,11 @@ ol {
 }
 
 /* Education */
+
+.education-list {
+  list-style: none;
+  padding-left: 10px;
+}
 
 .education-title {
   font-weight: 700;
