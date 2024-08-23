@@ -118,7 +118,7 @@ ol {
   line-height: 1.22;
   color: #000;
   margin-top: 0;
-  margin-bottom: 12px;
+  margin-bottom: 25px;
 }
 
 .my-info {
@@ -138,7 +138,7 @@ ol {
   line-height: 1.23;
   color: #000;
   margin-top: 0;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 .projects-list-item {
@@ -190,7 +190,7 @@ ol {
   line-height: 1.23;
   color: #000;
   margin-top: 0;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 .work-experience-company {
   font-weight: 700;
@@ -248,7 +248,7 @@ ol {
   font-size: 22px;
   color: #000;
   margin-top: 0;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 .education-place {
